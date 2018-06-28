@@ -15,6 +15,7 @@ class MovieItem(scrapy.Item):
     # 定义需要获取的电影信息属性
     rank = scrapy.Field() # 排名序号
     title = scrapy.Field() # 电影名称
+    pic_url = scrapy.Field() # 海报链接
     link = scrapy.Field() # 电影详情链接地址
     rating = scrapy.Field() # 电影评分
     participants = scrapy.Field() # 参评人数

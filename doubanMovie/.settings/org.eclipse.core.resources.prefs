@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//spiders/moviespider.py=utf-8
+encoding/items.py=utf-8
+encoding/middlewares.py=utf-8
+encoding/pipelines.py=utf-8
+encoding/pipelines2excel.py=utf-8
+encoding/pipelines2json.py=utf-8
+encoding/pipelines2txt.py=utf-8
+encoding/rotate_useragent.py=utf-8
+encoding/settings.py=utf-8
